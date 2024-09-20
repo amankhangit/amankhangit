@@ -2,14 +2,11 @@
 🔭 Software developer building front-end.<br>
 #### 🌱 Skills and Tech stacks I use:
 - Java
-<ul>
-  <li>Java</li>
-  <li>DSA</li>
-  <li>MySQL</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul><hr>
+- DSA
+- MySQL
+- HTML
+- CSS
+- JavaScript
 #### 🔎 Social Profiles:
 <br><br>
 <ul>
