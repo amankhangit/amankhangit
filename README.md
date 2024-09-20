@@ -8,7 +8,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-</ul>
+</ul><hr>
 <br>
 <strong>🔎 Social Profiles:</strong>
 <br><br>
@@ -17,7 +17,7 @@
   <li><a href="https://www.linkedin.com/in/aman-khan-112698207/">LinkedIn</a></li>
   <li><a href="https://x.com/AmanTechX">Twitter</a></li>
   <li><a href="https://www.scaler.com/academy/profile/75b7f894aec9/">Scaler Academy Profile</a></li>
-</ul>
+</ul><hr>
 <br>
 <strong>🚀 Some of my Achievements:</strong>
 <br><br>
@@ -25,7 +25,7 @@
   <li>Responsive Web Design Developer Certification on freeCodeCamp.<a href="https://www.freecodecamp.org/certification/amankhann/responsive-web-design">Certificate link</a></li>
   <li>Solved more than 500 problems on Scaler and leetcode.</li>
   <li>Participated and certified for idea submission in Entrepreneurship awareness drive organized by IIT Kharagpur at the Global Institute of Technology.</li>
-</ul>
+</ul><hr>
 <br>
 💬 Ask me about Software Development, Open Source, Space, Business, Investing.
 <!--
