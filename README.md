@@ -1,4 +1,4 @@
-# Hi there 👋 I am Aman
+## Hi there 👋 I am Aman
 ### 🔭 Software developer building front-end.
 #### 🌱 Skills and Tech stacks I use:
 - Java
