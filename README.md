@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Aman
-🔭 Software developer building front-end.<br><br>
+🔭 Software developer building front-end.<br>
 #### 🌱 Skills and Tech stacks I use:
 <ul>
   <li>Java</li>
