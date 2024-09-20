@@ -9,7 +9,7 @@ Software developer building front-end <br><br>
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
-<br><br>
+<br>
 <strong>Social Profiles:</strong>
 <ul>
   <li><a href="https://folll.io/amankhan/">My Portfolio</a></li>
