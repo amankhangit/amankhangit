@@ -1,5 +1,5 @@
 # Hi there 👋 I am Aman
-### 🔭 Software developer building front-end.<br>
+### 🔭 Software developer building front-end.
 #### 🌱 Skills and Tech stacks I use:
 - Java
 - DSA
@@ -16,10 +16,8 @@
 - Responsive Web Design Developer Certification on freeCodeCamp. <a href="https://www.freecodecamp.org/certification/amankhann/responsive-web-design">Certificate link</a>
 - Solved more than 500 problems on Scaler and leetcode.
 - Participated and certified for idea submission in Entrepreneurship awareness drive organized by IIT Kharagpur at the Global Institute of Technology.
-&nbsp;
-
-💬 Ask me about Software Development, Open Source, Books, Space, Business, Investing.<br><br>
-📫 Reach me here 👉 amankhann2023@gmail.com
+<p>💬 Ask me about Software Development, Open Source, Books, Space, Business, Investing.</p>
+<p>📫 Reach me here 👉 amankhann2023@gmail.com</p>
 <!--
 **amankhangit/amankhangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
