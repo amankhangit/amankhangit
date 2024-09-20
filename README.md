@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Aman
-Software developer building front-end <br><br>
-<strong>Skills and Tech stacks I use:</strong>
+Software developer building front-end.<br><br>
+- <strong>Skills and Tech stacks I use:</strong>
 <ul>
   <li>Java</li>
   <li>DSA</li>
