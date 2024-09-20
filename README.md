@@ -23,7 +23,7 @@
 - Solved more than 500 problems on Scaler and leetcode.
 - Participated and certified for idea submission in Entrepreneurship awareness drive organized by IIT Kharagpur at the Global Institute of Technology.
 
-<p><img src="Images/796db5deaf3ca9a927736d4b12cc3086.gif" style="height: 270px; width: auto;"></p>
+<p><img src="Images/796db5deaf3ca9a927736d4b12cc3086.gif"></p>
 
 <p>💬 Besides programming, I love listening to podcasts, reading tech-related blogs, and books about business, investing, psychology, and space.</p>
 
