@@ -1,5 +1,4 @@
 ## Hi there 👋 I am Aman
-<hr>
 Software developer building front-end 
 <!--
 **amankhangit/amankhangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
