@@ -11,6 +11,7 @@
 </ul>
 <br>
 <strong>🔎 Social Profiles:</strong>
+
 <ul>
   <li><a href="https://folll.io/amankhan/">My Portfolio</a></li>
   <li><a href="https://www.linkedin.com/in/aman-khan-112698207/">LinkedIn</a></li>
@@ -19,6 +20,7 @@
 </ul>
 <br>
 <strong>🚀 Some of my Achievements:</strong>
+
 <ul>
   <li>Responsive Web Design Developer Certification on freeCodeCamp.<a href="https://www.freecodecamp.org/certification/amankhann/responsive-web-design">Certificate link</a></li>
   <li>Solved more than 500 problems on Scaler and leetcode.</li>
