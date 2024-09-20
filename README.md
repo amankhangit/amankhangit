@@ -9,7 +9,6 @@
   <li>CSS</li>
   <li>JavaScript</li>
 </ul><hr>
-<br>
 <strong>🔎 Social Profiles:</strong>
 <br><br>
 <ul>
@@ -18,7 +17,6 @@
   <li><a href="https://x.com/AmanTechX">Twitter</a></li>
   <li><a href="https://www.scaler.com/academy/profile/75b7f894aec9/">Scaler Academy Profile</a></li>
 </ul><hr>
-<br>
 <strong>🚀 Some of my Achievements:</strong>
 <br><br>
 <ul>
@@ -26,7 +24,6 @@
   <li>Solved more than 500 problems on Scaler and leetcode.</li>
   <li>Participated and certified for idea submission in Entrepreneurship awareness drive organized by IIT Kharagpur at the Global Institute of Technology.</li>
 </ul><hr>
-<br>
 💬 Ask me about Software Development, Open Source, Space, Business, Investing.
 <!--
 **amankhangit/amankhangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
