@@ -13,12 +13,9 @@
 - <a href="https://x.com/AmanTechX">Twitter</a>
 - <a href="https://www.scaler.com/academy/profile/75b7f894aec9/">Scaler Academy Profile</a>
 #### 🚀 Some of my Achievements:
-<br><br>
-<ul>
-  <li>Responsive Web Design Developer Certification on freeCodeCamp.<a href="https://www.freecodecamp.org/certification/amankhann/responsive-web-design">Certificate link</a></li>
-  <li>Solved more than 500 problems on Scaler and leetcode.</li>
-  <li>Participated and certified for idea submission in Entrepreneurship awareness drive organized by IIT Kharagpur at the Global Institute of Technology.</li>
-</ul><hr><br>
+- Responsive Web Design Developer Certification on freeCodeCamp.<a href="https://www.freecodecamp.org/certification/amankhann/responsive-web-design">Certificate link</a>
+- Solved more than 500 problems on Scaler and leetcode.
+- Participated and certified for idea submission in Entrepreneurship awareness drive organized by IIT Kharagpur at the Global Institute of Technology.
 💬 Ask me about Software Development, Open Source, Books, Space, Business, Investing.<br><br>
 📫 Reach me here 👉 amankhann2023@gmail.com
 <!--
