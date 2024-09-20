@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Aman
-Software developer building front-end.
-- <strong>Skills and Tech stacks I use:</strong>
+🔭 Software developer building front-end.<br><br>
+<strong>🌱 Skills and Tech stacks I use:</strong>
 <ul>
   <li>Java</li>
   <li>DSA</li>
@@ -17,6 +17,14 @@ Software developer building front-end.
   <li><a href="https://x.com/AmanTechX">Twitter</a></li>
   <li><a href="https://www.scaler.com/academy/profile/75b7f894aec9/">Scaler Academy Profile</a></li>
 </ul>
+<br>
+<strong>Some of my Achievements:</strong>
+<ul>
+  <li>Responsive Web Design Developer Certification on freeCodeCamp.<a href="https://www.freecodecamp.org/certification/amankhann/responsive-web-design">Certificate link</a></li>
+  <li>Solved more than 500 problems on Scaler and leetcode.</li>
+  <li>Participated and certified for idea submission in Entrepreneurship awareness drive organized by IIT Kharagpur at the Global Institute of Technology.</li>
+</ul>
+
 <!--
 **amankhangit/amankhangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
