@@ -27,4 +27,6 @@
 
 <p>💬 Besides programming, I love listening to podcasts, reading tech-related blogs, and books about business, investing, psychology, and space.</p>
 
+<p><img src="Images/796db5deaf3ca9a927736d4b12cc3086.gif"></p>
+
 <p>📫 Reach me here 👉 amankhann2023@gmail.com</p>
