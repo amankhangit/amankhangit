@@ -23,7 +23,7 @@
   <li>Responsive Web Design Developer Certification on freeCodeCamp.<a href="https://www.freecodecamp.org/certification/amankhann/responsive-web-design">Certificate link</a></li>
   <li>Solved more than 500 problems on Scaler and leetcode.</li>
   <li>Participated and certified for idea submission in Entrepreneurship awareness drive organized by IIT Kharagpur at the Global Institute of Technology.</li>
-</ul><hr>
+</ul><hr><br>
 💬 Ask me about Software Development, Open Source, Space, Business, Investing.
 <!--
 **amankhangit/amankhangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
