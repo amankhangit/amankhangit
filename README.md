@@ -1,5 +1,14 @@
 ## Hi there 👋 I am Aman
 Software developer building front-end 
+Skills and Tech stacks I use:
+<ul>
+  <li>Java</li>
+  <li>DSA</li>
+  <li>MySQL</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
 <!--
 **amankhangit/amankhangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
