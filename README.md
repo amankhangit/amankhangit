@@ -2,6 +2,8 @@
 
 ### 🔭 Software developer building front-end.
 
+<p><img src="Images/coding-illustration-512x341-ascbpe7v.png"></p>
+
 #### 🌱 Skills and Tech stacks I use:
 - Java
 - DSA
