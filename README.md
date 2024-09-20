@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Aman
 🔭 Software developer building front-end.<br><br>
-<strong>🌱 Skills and Tech stacks I use:</strong>
+#### 🌱 Skills and Tech stacks I use:
 <ul>
   <li>Java</li>
   <li>DSA</li>
@@ -9,7 +9,7 @@
   <li>CSS</li>
   <li>JavaScript</li>
 </ul><hr>
-<strong>🔎 Social Profiles:</strong>
+#### 🔎 Social Profiles:
 <br><br>
 <ul>
   <li><a href="https://folll.io/amankhan/">My Portfolio</a></li>
@@ -17,7 +17,7 @@
   <li><a href="https://x.com/AmanTechX">Twitter</a></li>
   <li><a href="https://www.scaler.com/academy/profile/75b7f894aec9/">Scaler Academy Profile</a></li>
 </ul><hr>
-<strong>🚀 Some of my Achievements:</strong>
+#### 🚀 Some of my Achievements:
 <br><br>
 <ul>
   <li>Responsive Web Design Developer Certification on freeCodeCamp.<a href="https://www.freecodecamp.org/certification/amankhann/responsive-web-design">Certificate link</a></li>
