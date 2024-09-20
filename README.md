@@ -2,7 +2,7 @@
 
 ### 🔭 Software developer building front-end.
 
-<p><img src="Images/f1e734f9cade86fe737a9aa404ad5677.gif" style="height: 200px; width: 200px;"></p>
+<p><img src="Images/f1e734f9cade86fe737a9aa404ad5677.gif" style="height: 200px; width: 400px;"></p>
 
 #### 🌱 Skills and Tech stacks I use:
 - Java
