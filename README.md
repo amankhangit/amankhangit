@@ -24,8 +24,8 @@
   <li>Solved more than 500 problems on Scaler and leetcode.</li>
   <li>Participated and certified for idea submission in Entrepreneurship awareness drive organized by IIT Kharagpur at the Global Institute of Technology.</li>
 </ul><hr><br>
-💬 Ask me about Software Development, Open Source, Space, Business, Investing.
-📫 How to reach me:
+💬 Ask me about Software Development, Open Source, Space, Business, Investing.<br><br>
+📫 How to reach me:<br>
 - amankhann2023@gmail.com
 <!--
 **amankhangit/amankhangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
