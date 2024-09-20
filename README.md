@@ -17,6 +17,7 @@
 - Solved more than 500 problems on Scaler and leetcode.
 - Participated and certified for idea submission in Entrepreneurship awareness drive organized by IIT Kharagpur at the Global Institute of Technology.
 &nbsp;
+
 💬 Ask me about Software Development, Open Source, Books, Space, Business, Investing.<br><br>
 📫 Reach me here 👉 amankhann2023@gmail.com
 <!--
