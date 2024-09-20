@@ -8,13 +8,10 @@
 - CSS
 - JavaScript
 #### 🔎 Social Profiles:
-<br><br>
-<ul>
-  <li><a href="https://folll.io/amankhan/">My Portfolio</a></li>
-  <li><a href="https://www.linkedin.com/in/aman-khan-112698207/">LinkedIn</a></li>
-  <li><a href="https://x.com/AmanTechX">Twitter</a></li>
-  <li><a href="https://www.scaler.com/academy/profile/75b7f894aec9/">Scaler Academy Profile</a></li>
-</ul><hr>
+- <a href="https://folll.io/amankhan/">My Portfolio</a>
+- <a href="https://www.linkedin.com/in/aman-khan-112698207/">LinkedIn</a>
+- <a href="https://x.com/AmanTechX">Twitter</a>
+- <a href="https://www.scaler.com/academy/profile/75b7f894aec9/">Scaler Academy Profile</a>
 #### 🚀 Some of my Achievements:
 <br><br>
 <ul>
