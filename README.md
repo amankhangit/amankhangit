@@ -19,6 +19,7 @@
 - <a href="https://www.scaler.com/academy/profile/75b7f894aec9/">Scaler Academy Profile</a>
 
 #### 🚀 Some of my Achievements:
+- Successfully merged 3 pull requests in <a href="https://github.com/Stirling-Tools/Stirling-PDF">Stirling-PDF</a>, improving the UI, fixing bugs, and working on a new feature, with plans for future contributions.
 - Responsive Web Design Developer Certification on freeCodeCamp. <a href="https://www.freecodecamp.org/certification/amankhann/responsive-web-design">Certificate link</a>
 - Solved more than 500 problems on Scaler and leetcode.
 - Participated and certified for idea submission in Entrepreneurship awareness drive organized by IIT Kharagpur at the Global Institute of Technology.
